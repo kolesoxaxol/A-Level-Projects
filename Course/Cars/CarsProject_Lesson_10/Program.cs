@@ -32,8 +32,10 @@ namespace Lesson_10
                 {
                     Console.Write("Введите цену машины: ");
                     priceStr = Console.ReadLine();
-
-                } while (!int.TryParse(priceStr, out price));
+                // isPriceOk = !int.TryParse(priceStr, out price);
+                   // while (isPriceOk)
+               } while (!int.TryParse(priceStr, out price)); // cтарайся писать один оператор в одном лайне Func1(Func2(Func3(a))) плохо читается
+ 
 
                 Car car = new Car(modele, color, price);
                 CarsKeeper.AddCar(car);
@@ -53,9 +55,11 @@ namespace Lesson_10
 
                     case "N":
                         break;
+                        
+                        // всегда добавляй default хорошая практика
                 }
 
-                if (carCount >= 3)
+                if (carCount >= 3) // магические числа в коде выноси это в отдельную переменую с самодокументируемым названием
                 {
                     Console.WriteLine("Лимит в магазине - 3 машины.");
                     break;
@@ -73,11 +77,14 @@ namespace Lesson_10
                     foreach (Car myCar in savedCars)
                     {
                         Console.WriteLine($"Название автомобиля: {myCar.Modele}, Цвет автомобиля: {myCar.Color}, Цена автомобиля: {myCar.Price}$, Текущая скидка на автомобиль: {myCar.Discount}%");
+                       // попрбуй еще string.Format для вывода строк чисто для расширения кругозора
                     }
                     break;
 
                 case "N":
                     break;
+                    
+                    
             }
 
             Console.ReadKey();
