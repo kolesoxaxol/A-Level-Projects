@@ -1,0 +1,10 @@
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarsProject_Lesson_10\obj\Debug\CarsProject_Lesson_10.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarsProject_Lesson_10\obj\Debug\CarsProject_Lesson_10.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarsProject_Lesson_10\bin\Debug\CarsProject_Lesson_10.exe.config
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarsProject_Lesson_10\bin\Debug\CarsProject_Lesson_10.exe
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarsProject_Lesson_10\bin\Debug\CarsProject_Lesson_10.pdb
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarsProject_Lesson_10\bin\Debug\CarClass.dll
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarsProject_Lesson_10\bin\Debug\CarClass.pdb
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarsProject_Lesson_10\obj\Debug\CarsProject_Lesson_10.csproj.CopyComplete
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarsProject_Lesson_10\obj\Debug\CarsProject_Lesson_10.exe
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarsProject_Lesson_10\obj\Debug\CarsProject_Lesson_10.pdb

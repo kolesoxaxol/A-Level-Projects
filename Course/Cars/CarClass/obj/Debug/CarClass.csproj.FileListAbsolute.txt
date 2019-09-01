@@ -1,0 +1,6 @@
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarClass\bin\Debug\CarClass.dll
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarClass\bin\Debug\CarClass.pdb
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarClass\obj\Debug\CarClass.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarClass\obj\Debug\CarClass.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarClass\obj\Debug\CarClass.dll
+E:\C#\Projects\A-Level\Lesson 10\Homework\Cars\CarClass\obj\Debug\CarClass.pdb

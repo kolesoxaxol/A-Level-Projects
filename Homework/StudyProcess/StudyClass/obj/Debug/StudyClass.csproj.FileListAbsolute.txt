@@ -1,0 +1,6 @@
+E:\C#\Projects\A-Level\Lesson 10\Homework\StudyProcess\StudyClass\bin\Debug\StudyClass.dll
+E:\C#\Projects\A-Level\Lesson 10\Homework\StudyProcess\StudyClass\bin\Debug\StudyClass.pdb
+E:\C#\Projects\A-Level\Lesson 10\Homework\StudyProcess\StudyClass\obj\Debug\StudyClass.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson 10\Homework\StudyProcess\StudyClass\obj\Debug\StudyClass.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson 10\Homework\StudyProcess\StudyClass\obj\Debug\StudyClass.dll
+E:\C#\Projects\A-Level\Lesson 10\Homework\StudyProcess\StudyClass\obj\Debug\StudyClass.pdb
