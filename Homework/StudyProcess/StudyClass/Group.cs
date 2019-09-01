@@ -24,6 +24,8 @@ namespace StudyClass
             return studentsGroup.Count;
         }
 
+        // елси ты решил использовать для студентов колекцию, зачем ты тут перегоняеешь ее в массив. Ты же также можешь перебирать колекцию как и массив
+        
         public string[] GetStudents()
         {
             return studentsGroup.ToArray();
