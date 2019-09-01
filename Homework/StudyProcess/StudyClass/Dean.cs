@@ -14,7 +14,7 @@ namespace StudyClass
         private static int assistantProfessorLimit = 20;
         private static int teacherLimit = 15;
         private static int teachingAssistant = 5;
-        private static int _randomStudents;
+        private static int _randomStudents;  // че _randomStudents с подчеркивания а остальные нет? в чем ее особенность? 
 
         public static void SortUniver()
         {
@@ -36,6 +36,9 @@ namespace StudyClass
 
                 for (int s = 0; s < sudentsCount; s++)
                 {
+                    
+                    //я бы переделал это на switch и для TeacherType использовал Enum 
+                    // 20, 15, 5 это магические числа должны быть где то в сеттингах иди просто в переменых с самодокументируемым названием
                     if (newTeacher.TeacherType == "Professor Assistant" && limitStudents >= 20)
                     {
                         Console.WriteLine($"Professor Assistant: не может принять больше {assistantProfessorLimit} студентов");
@@ -51,7 +54,7 @@ namespace StudyClass
                         Console.WriteLine($"Teaching Assistant: не может принять больше {teachingAssistant} студентов");
                         break;
                     }
-
+// а что ты делаешь в строчках ниже ? 
                     _randomStudents = rndStudents.Next(0, UniverBase.GetStudentsCount());
                     Student newStudent = students[_randomStudents];
                     students.RemoveAt(_randomStudents);
@@ -63,6 +66,8 @@ namespace StudyClass
                 UniverBase.AddWholeGroup(newGroup);
 
                 Console.WriteLine($"Группа: \"{newGroup.GroupName}\" c преподователем \"{newGroup.TeacherName}\" приняла {newGroup.GetCountStudents()} студентов.");
+                
+                // почему ты решил использовать new string ? 
                 Console.WriteLine(new string('-', 50));
             }
 
